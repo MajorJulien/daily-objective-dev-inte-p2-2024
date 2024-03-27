@@ -10,7 +10,7 @@ Hachemi
     - [X] configuration de `ZSH` comme shell par défaut
     - [X] Installation et configuration de `Powelevel 10K`
     - [X] Allez voir les plugins de `Ohmyzsh`
-- [ ] Création de compte Github
+- [X] Création de compte Github
 - [ ] Brancher son terminal en SSH avec Github
 - [ ] Installation et configuration de Git
 - [ ] Comprendre le versionning
