@@ -6,7 +6,7 @@ Hachemi
 
 - [X] Pimper son terminal : 
     - [X] Installation de `ZSH`
-    - [ ] Installation de `Ohmyzsh`
+    - [X] Installation de `Ohmyzsh`
     - [ ] configuration de `ZSH` comme shell par défaut
     - [ ] Installation et configuration de `Powelevel 10K`
     - [ ] Allez voir les plugins de `Ohmyzsh`
