@@ -25,4 +25,4 @@ Hachemi
     - [X] git pull
     - [X] git push
     - [X] git clone
-    - [ ] git remote
+    - [X] git remote
