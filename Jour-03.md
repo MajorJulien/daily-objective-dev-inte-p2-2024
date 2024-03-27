@@ -21,7 +21,7 @@ Hachemi
     - [X] git add
     - [X] git status
     - [X] git commit
-    - [ ] git remote
+    - [X] git remote
     - [ ] git pull
     - [ ] git push
     - [ ] git clone
