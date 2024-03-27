@@ -10,7 +10,7 @@ Hachemi
   - [X] Installation (Discord)
   - [X] Installation navigateur (Developper Edition)
   - [X] Création et configuration Mail pro
-  - [ ] Création et configuration Linkedin
+  - [X] Création et configuration Linkedin
   - [ ] Installation Linux ou WSL sur Windows
 - [ ] Découverte du Terminal :
   - [ ] Comprendre la différence entre une interface en ligne de commande et une interface graphique
