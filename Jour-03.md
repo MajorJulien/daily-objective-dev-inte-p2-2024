@@ -4,7 +4,7 @@ Hachemi
 
 ### Mercredi 20/03/2024
 
-- [ ] Pimper son terminal : 
+- [X] Pimper son terminal : 
     - [ ] Installation de `ZSH`
     - [ ] Installation de `Ohmyzsh`
     - [ ] configuration de `ZSH` comme shell par défaut
