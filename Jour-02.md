@@ -6,7 +6,7 @@ Hachemi
 
 - [X] Atelier Profils Github
 - [X] Configuration de son environnement de travail
-  - [ ] Mise à jour OS (Linux, Windows, Mac)
+  - [X] Mise à jour OS (Linux, Windows, Mac)
   - [ ] Installation (Discord)
   - [ ] Installation navigateur (Developper Edition)
   - [ ] Création et configuration Mail pro
