@@ -12,7 +12,7 @@ Hachemi
     - [X] Allez voir les plugins de `Ohmyzsh`
 - [X] Création de compte Github
 - [X] Brancher son terminal en SSH avec Github
-- [ ] Installation et configuration de Git
+- [X] Installation et configuration de Git
 - [ ] Comprendre le versionning
 - [ ] Comprendre le fonctionnement de Git
   - [ ] Comprendre le staging de Git
