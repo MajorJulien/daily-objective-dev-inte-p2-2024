@@ -14,7 +14,7 @@ Hachemi
 - [X] Brancher son terminal en SSH avec Github
 - [X] Installation et configuration de Git
 - [X] Comprendre le versionning
-- [ ] Comprendre le fonctionnement de Git
+- [X] Comprendre le fonctionnement de Git
   - [ ] Comprendre le staging de Git
   - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     - [ ] git init
