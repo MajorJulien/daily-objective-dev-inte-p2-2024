@@ -5,7 +5,7 @@ Hachemi
 ### Mercredi 20/03/2024
 
 - [X] Pimper son terminal : 
-    - [ ] Installation de `ZSH`
+    - [X] Installation de `ZSH`
     - [ ] Installation de `Ohmyzsh`
     - [ ] configuration de `ZSH` comme shell par défaut
     - [ ] Installation et configuration de `Powelevel 10K`
