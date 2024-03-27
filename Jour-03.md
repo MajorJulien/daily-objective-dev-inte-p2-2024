@@ -20,7 +20,7 @@ Hachemi
     - [X] git init
     - [X] git add
     - [X] git status
-    - [ ] git commit
+    - [X] git commit
     - [ ] git remote
     - [ ] git pull
     - [ ] git push
