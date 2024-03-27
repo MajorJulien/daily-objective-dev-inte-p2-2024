@@ -18,7 +18,7 @@ Hachemi
   - [X] Comprendre le staging de Git
   - [X] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     - [X] git init
-    - [ ] git add
+    - [X] git add
     - [ ] git status
     - [ ] git commit
     - [ ] git remote
