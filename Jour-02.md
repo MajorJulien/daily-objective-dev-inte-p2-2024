@@ -5,7 +5,7 @@ Hachemi
 ### Mardi 19/03/2024
 
 - [X] Atelier Profils Github
-- [ ] Configuration de son environnement de travail
+- [X] Configuration de son environnement de travail
   - [ ] Mise à jour OS (Linux, Windows, Mac)
   - [ ] Installation (Discord)
   - [ ] Installation navigateur (Developper Edition)
