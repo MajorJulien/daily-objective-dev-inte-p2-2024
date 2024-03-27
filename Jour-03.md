@@ -11,7 +11,7 @@ Hachemi
     - [X] Installation et configuration de `Powelevel 10K`
     - [X] Allez voir les plugins de `Ohmyzsh`
 - [X] Création de compte Github
-- [ ] Brancher son terminal en SSH avec Github
+- [X] Brancher son terminal en SSH avec Github
 - [ ] Installation et configuration de Git
 - [ ] Comprendre le versionning
 - [ ] Comprendre le fonctionnement de Git
