@@ -15,7 +15,7 @@ Hachemi
 - [X] Installation et configuration de Git
 - [X] Comprendre le versionning
 - [X] Comprendre le fonctionnement de Git
-  - [ ] Comprendre le staging de Git
+  - [X] Comprendre le staging de Git
   - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     - [ ] git init
     - [ ] git add
