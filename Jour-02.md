@@ -13,7 +13,7 @@ Hachemi
   - [X] Création et configuration Linkedin
   - [X] Installation Linux ou WSL sur Windows
 - [X] Découverte du Terminal :
-  - [ ] Comprendre la différence entre une interface en ligne de commande et une interface graphique
+  - [X] Comprendre la différence entre une interface en ligne de commande et une interface graphique
   - [ ] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH
   - [ ] Comprendre comment fonctionne un shell
   - [ ] Comprendre le fonctionnement des alias
