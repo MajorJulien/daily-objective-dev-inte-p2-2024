@@ -19,7 +19,7 @@ Hachemi
   - [X] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     - [X] git init
     - [X] git add
-    - [ ] git status
+    - [X] git status
     - [ ] git commit
     - [ ] git remote
     - [ ] git pull
