@@ -4,7 +4,7 @@ Benjamin
 
 ### Vendredi 22/03/2024
 
-- [ ] Créer son premier repo Github
+- [X] Créer son premier repo Github
 - [ ] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
 - [ ] Découverte du Markdown :
   - [ ] Comprendre l'intérêt du Markdown
