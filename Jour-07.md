@@ -7,11 +7,11 @@ Hachemi
 
 ### Git
 
-- [ ] Comprendre le principe de "Pull Request"
+- [X] Comprendre le principe de "Pull Request"
 - [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
-- [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
+- [X] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
-- [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
+- [X] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 - [ ] Découverte de LazyGit
   - [ ] Installation et configuration
   - [ ] Intégration dans son editeur / workflow
