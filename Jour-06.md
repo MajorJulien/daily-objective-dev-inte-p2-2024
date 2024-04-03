@@ -6,8 +6,8 @@ Hachemi
 
 ### Markdown
 
-- [ ] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
-    - [ ] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
+- [X] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
+    - [X] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
 
 ### Git
 
@@ -27,7 +27,7 @@ Hachemi
 
 #### Github
 
-- [ ] Pimper son profile Github (belle du village)
+- [X] Pimper son profile Github (belle du village)
 - [X] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
 - [X] Découvrir l'interface de Github :
     - [X] Pull Requests
