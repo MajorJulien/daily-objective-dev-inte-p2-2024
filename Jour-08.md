@@ -12,18 +12,18 @@ Hachemi
 
 ### Github
 
-- [ ] Découverte de Github CLI
-  - [ ] Installation et connexion
-  - [ ] Faire le tour du propriétaire
-  - [ ] Intégration de `gh` dans son workflow
-  - [ ] Finalisation de son profile Github
+- [X] Découverte de Github CLI
+  - [X] Installation et connexion
+  - [X] Faire le tour du propriétaire
+  - [X] Intégration de `gh` dans son workflow
+  - [X] Finalisation de son profile Github
 
 ### NodeJS
 
-- [ ] Installation de NodeJS
-- [ ] Découverte de "NPM", "Yarn" et "PNPM"
-  - [ ] Comprendre les différences entre les package managers et en choisir un
-  - [ ] Savoir faire les commandes de bases :
-    - [ ] Installer un package (local et global)
-    - [ ] Désinstaller un package (local et global)
-    - [ ] Mettre jour les packages (local et global) et le package manager
+- [X] Installation de NodeJS
+- [X] Découverte de "NPM", "Yarn" et "PNPM"
+  - [X] Comprendre les différences entre les package managers et en choisir un
+  - [X] Savoir faire les commandes de bases :
+    - [X] Installer un package (local et global)
+    - [X] Désinstaller un package (local et global)
+    - [X] Mettre jour les packages (local et global) et le package manager
