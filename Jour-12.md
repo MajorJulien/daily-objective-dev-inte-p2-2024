@@ -6,23 +6,23 @@ Benjamin
 
 ### Git :
 
-- [ ] Comprendre la différence entre `git reset` et `git revert`
-- [ ] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
-- [ ] Comprendre l'utilité et le fonctionnement de `git stash`
-- [ ] Comprendre et utiliser le `git diff` (quelle utilité)
-- [ ] Comprendre la différence entre `git log` et `git show` + les flags principaux
-- [ ] Comprendre et utiliser le `git fetch`
+- [X] Comprendre la différence entre `git reset` et `git revert`
+- [X] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
+- [X] Comprendre l'utilité et le fonctionnement de `git stash`
+- [X] Comprendre et utiliser le `git diff` (quelle utilité)
+- [X] Comprendre la différence entre `git log` et `git show` + les flags principaux
+- [X] Comprendre et utiliser le `git fetch`
 
 ### Setup Workflow Git
 
-- [ ] Découverte de LazyGit (pour ceux qui ont travaillé sur autre chose la semaine précédente)
-  - [ ] Installation et configuration
-  - [ ] Intégration dans son editeur / workflow
-- [ ] Configurer son git :
-  - [ ] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
-  - [ ] Différenciateur (par ex : Delta)
-  - [ ] Aliases
-  - [ ] Comprendre la différence entre config locale, globale et système
-- [ ] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
-- [ ] Savoir travailler avec `git fetch`
-  - [ ] À quoi sert la commande `git fetch —prune`
+- [X] Découverte de LazyGit (pour ceux qui ont travaillé sur autre chose la semaine précédente)
+  - [X] Installation et configuration
+  - [X] Intégration dans son editeur / workflow
+- [X] Configurer son git :
+  - [X] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
+  - [X] Différenciateur (par ex : Delta)
+  - [X] Aliases
+  - [X] Comprendre la différence entre config locale, globale et système
+- [X] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
+- [X] Savoir travailler avec `git fetch`
+  - [X] À quoi sert la commande `git fetch —prune`
