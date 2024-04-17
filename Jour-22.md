@@ -4,9 +4,9 @@ Hachemi
 
 ## Mercredi 17/04/2024
 
-### Brief 
+### Brief
 
-- [ ] Finaliser les wireframes de son brief
+- [] Finaliser les wireframes de son brief
 
 ### Atelier
 
